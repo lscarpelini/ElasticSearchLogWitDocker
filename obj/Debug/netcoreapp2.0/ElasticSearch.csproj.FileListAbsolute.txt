@@ -1,0 +1,11 @@
+C:\Estudo\ElasticSearch\bin\Debug\netcoreapp2.0\ElasticSearch.deps.json
+C:\Estudo\ElasticSearch\bin\Debug\netcoreapp2.0\ElasticSearch.runtimeconfig.json
+C:\Estudo\ElasticSearch\bin\Debug\netcoreapp2.0\ElasticSearch.runtimeconfig.dev.json
+C:\Estudo\ElasticSearch\bin\Debug\netcoreapp2.0\ElasticSearch.dll
+C:\Estudo\ElasticSearch\bin\Debug\netcoreapp2.0\ElasticSearch.pdb
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.csprojAssemblyReference.cache
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.csproj.CoreCompileInputs.cache
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.AssemblyInfoInputs.cache
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.AssemblyInfo.cs
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.dll
+C:\Estudo\ElasticSearch\obj\Debug\netcoreapp2.0\ElasticSearch.pdb
